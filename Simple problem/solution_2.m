@@ -1,11 +1,11 @@
 //
-//  solution_1.m
+//  solution_2.m
 //  Objective-c-All-Topic
 //
 //  Created by Shahrear Hossain on 15/10/24.
 //
 
-// Objective-C Program to Check Whether a Number is Even
+//Objective-C Program to Check Whether a Given Number is Positive or Negative
 //
 //#import <Foundation/Foundation.h>
 //
@@ -15,13 +15,14 @@
 //        NSLog(@"Enter a number: ");
 //        scanf("%d", &number);
 //        
-//        if (number % 2 == 0) {
-//            NSLog(@"%d is even.", number);
+//        if (number > 0) {
+//            NSLog(@"%d is positive.", number);
+//        } else if (number < 0) {
+//            NSLog(@"%d is negative.", number);
 //        } else {
-//            NSLog(@"%d is odd.", number);
+//            NSLog(@"%d is zero.", number);
 //        }
 //    }
 //    return 0;
 //}
-//
-//
+

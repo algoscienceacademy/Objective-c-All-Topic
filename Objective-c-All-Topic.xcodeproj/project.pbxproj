@@ -8,6 +8,16 @@
 
 /* Begin PBXBuildFile section */
 		3497BD972CBE612400A467DD /* solution_1.m in Sources */ = {isa = PBXBuildFile; fileRef = 3497BD962CBE612400A467DD /* solution_1.m */; };
+		3497BD9B2CBE629900A467DD /* solution_2.m in Sources */ = {isa = PBXBuildFile; fileRef = 3497BD9A2CBE629900A467DD /* solution_2.m */; };
+		3497BD9D2CBE62E900A467DD /* solution_3.m in Sources */ = {isa = PBXBuildFile; fileRef = 3497BD9C2CBE62E900A467DD /* solution_3.m */; };
+		3497BD9F2CBE632300A467DD /* solution_4.m in Sources */ = {isa = PBXBuildFile; fileRef = 3497BD9E2CBE632300A467DD /* solution_4.m */; };
+		3497BDA12CBE636C00A467DD /* solution_5.m in Sources */ = {isa = PBXBuildFile; fileRef = 3497BDA02CBE636C00A467DD /* solution_5.m */; };
+		3497BDA32CBE640600A467DD /* solution_6.m in Sources */ = {isa = PBXBuildFile; fileRef = 3497BDA22CBE640600A467DD /* solution_6.m */; };
+		3497BDA52CBE649300A467DD /* solution_7.m in Sources */ = {isa = PBXBuildFile; fileRef = 3497BDA42CBE649300A467DD /* solution_7.m */; };
+		3497BDA72CBE64EB00A467DD /* solution_8.m in Sources */ = {isa = PBXBuildFile; fileRef = 3497BDA62CBE64EB00A467DD /* solution_8.m */; };
+		3497BDA92CBE653B00A467DD /* solution_9.m in Sources */ = {isa = PBXBuildFile; fileRef = 3497BDA82CBE653B00A467DD /* solution_9.m */; };
+		3497BDAB2CBE65A300A467DD /* solution_10.m in Sources */ = {isa = PBXBuildFile; fileRef = 3497BDAA2CBE65A300A467DD /* solution_10.m */; };
+		3497BDAD2CBE65F200A467DD /* solution_11.m in Sources */ = {isa = PBXBuildFile; fileRef = 3497BDAC2CBE65F200A467DD /* solution_11.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +35,16 @@
 /* Begin PBXFileReference section */
 		3497BD8B2CBE606600A467DD /* Objective-c-All-Topic */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Objective-c-All-Topic"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3497BD962CBE612400A467DD /* solution_1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = solution_1.m; sourceTree = "<group>"; };
+		3497BD9A2CBE629900A467DD /* solution_2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = solution_2.m; sourceTree = "<group>"; };
+		3497BD9C2CBE62E900A467DD /* solution_3.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = solution_3.m; sourceTree = "<group>"; };
+		3497BD9E2CBE632300A467DD /* solution_4.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = solution_4.m; sourceTree = "<group>"; };
+		3497BDA02CBE636C00A467DD /* solution_5.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = solution_5.m; sourceTree = "<group>"; };
+		3497BDA22CBE640600A467DD /* solution_6.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = solution_6.m; sourceTree = "<group>"; };
+		3497BDA42CBE649300A467DD /* solution_7.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = solution_7.m; sourceTree = "<group>"; };
+		3497BDA62CBE64EB00A467DD /* solution_8.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = solution_8.m; sourceTree = "<group>"; };
+		3497BDA82CBE653B00A467DD /* solution_9.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = solution_9.m; sourceTree = "<group>"; };
+		3497BDAA2CBE65A300A467DD /* solution_10.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = solution_10.m; sourceTree = "<group>"; };
+		3497BDAC2CBE65F200A467DD /* solution_11.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = solution_11.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +78,16 @@
 			isa = PBXGroup;
 			children = (
 				3497BD962CBE612400A467DD /* solution_1.m */,
+				3497BD9A2CBE629900A467DD /* solution_2.m */,
+				3497BD9C2CBE62E900A467DD /* solution_3.m */,
+				3497BD9E2CBE632300A467DD /* solution_4.m */,
+				3497BDA02CBE636C00A467DD /* solution_5.m */,
+				3497BDA22CBE640600A467DD /* solution_6.m */,
+				3497BDA42CBE649300A467DD /* solution_7.m */,
+				3497BDA62CBE64EB00A467DD /* solution_8.m */,
+				3497BDA82CBE653B00A467DD /* solution_9.m */,
+				3497BDAA2CBE65A300A467DD /* solution_10.m */,
+				3497BDAC2CBE65F200A467DD /* solution_11.m */,
 			);
 			path = "Simple problem";
 			sourceTree = "<group>";
@@ -119,7 +149,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3497BDA12CBE636C00A467DD /* solution_5.m in Sources */,
+				3497BDAD2CBE65F200A467DD /* solution_11.m in Sources */,
 				3497BD972CBE612400A467DD /* solution_1.m in Sources */,
+				3497BDA92CBE653B00A467DD /* solution_9.m in Sources */,
+				3497BD9B2CBE629900A467DD /* solution_2.m in Sources */,
+				3497BDA72CBE64EB00A467DD /* solution_8.m in Sources */,
+				3497BD9D2CBE62E900A467DD /* solution_3.m in Sources */,
+				3497BD9F2CBE632300A467DD /* solution_4.m in Sources */,
+				3497BDA32CBE640600A467DD /* solution_6.m in Sources */,
+				3497BDA52CBE649300A467DD /* solution_7.m in Sources */,
+				3497BDAB2CBE65A300A467DD /* solution_10.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
